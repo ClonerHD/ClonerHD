@@ -16,6 +16,6 @@
 - 🐦 [Twitter](https://twitter.com/Cloner1231)
 
 ## Projects
-- 🔭 Here you can find my current projects: [https://github.com/ClonerHD/EasyJail-Discontinued-]
+- 🔭 Here you can find my current projects: [https://raidparadise.eu/]
 
 I'm always open to collaboration and exchanging knowledge! Feel free to reach out. 😊
