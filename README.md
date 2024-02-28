@@ -11,7 +11,7 @@
 - 🔷 C#: Engaging in desktop application development and game development with C#.
 
 ## Contact
-- 📧 [Email](cloner@raidparadise.eu)
+- 📧 [Email](admin@raidparadise.eu)
 - 🔗 [Website](https://raidparadise.eu/)
 - 🐦 [Twitter](https://twitter.com/Cloner1231)
 
