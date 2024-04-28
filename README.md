@@ -7,8 +7,8 @@
 - 🚀 I'm passionate about the world of programming and constantly working to enhance my skills.
 
 ## What I'm Learning
-- 🌐 JavaScript: Diving into the world of web development and learning to create interactive websites.
-- 🔷 C#: Engaging in desktop application development and game development with C#.
+- 🌐 JavaScript
+- 🔷 C#/Unity 
 
 ## Contact
 - 📧 [Email](admin@raidparadise.eu)
