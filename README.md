@@ -4,7 +4,6 @@
 - 🌍 I'm from Germany.
 - 🎓 I'm 17 years old.
 - 💻 Currently, I'm learning JavaScript and C#.
-- 🚀 I'm passionate about the world of programming and constantly working to enhance my skills.
 
 ## What I'm Learning
 - 🌐 JavaScript
