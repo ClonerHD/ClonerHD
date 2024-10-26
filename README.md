@@ -10,11 +10,11 @@
 - 🔷 C#/Unity 
 
 ## Contact
-- 📧 [Email](admin@raidparadise.eu)
-- 🔗 [Website](https://raidparadise.eu/)
+- 📧 [Email](info@hetrixhosting.com)
+- 🔗 [Website](https://hetrixhosting.com/)
 - 🐦 [Twitter](https://twitter.com/Cloner1231)
 
 ## Projects
-- 🔭 Here you can find my current projects: [https://raidparadise.eu/]
+- 🔭 Here you can find my current projects: [https://hetrixhosting.com/]
 
 I'm always open to collaboration and exchanging knowledge! Feel free to reach out. 😊
