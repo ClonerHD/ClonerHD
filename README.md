@@ -2,7 +2,7 @@
 
 ## About Me
 - 🌍 I'm from Germany.
-- 🎓 I'm 17 years old.
+- 🎓 I'm 18 years old.
 - 💻 Currently, I'm learning JavaScript and C#.
 
 ## What I'm Learning
