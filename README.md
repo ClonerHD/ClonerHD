@@ -34,7 +34,6 @@
 <!-- Hosting / Infrastructure -->
 <img src="https://cdn.simpleicons.org/proxmox/white" height="40"/>
 <img src="https://cdn.simpleicons.org/pterodactyl/white" height="40"/>
-<img src="https://cdn.simpleicons.org/whmcs/white" height="40"/>
 <img src="https://cdn.simpleicons.org/uptimekuma/white" height="40"/>
 <img src="https://cdn.simpleicons.org/plesk/white" height="40"/>
 
