@@ -37,9 +37,6 @@
 <img src="https://cdn.simpleicons.org/uptimekuma/white" height="40"/>
 <img src="https://cdn.simpleicons.org/plesk/white" height="40"/>
 
-<!-- Divider -->
-&nbsp;&nbsp;&nbsp;
-
 <!-- Dev / System -->
 <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" height="40"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" height="40"/>
