@@ -1,11 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cloner</h1>
 <h3 align="center">Building reliable game-hosting infrastructure</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=clonerhd&label=Profile%20views&color=0e75b6&style=flat" alt="clonerhd" /> </p>
-
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clonerhd" alt="clonerhd" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **HetrixHosting**
 
@@ -24,10 +20,6 @@
 - 📄 Know about my experiences [Game Hosting Provider](Game Hosting Provider)
 
 - ⚡ Fun fact **I run more servers than games**
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
