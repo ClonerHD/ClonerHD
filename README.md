@@ -11,8 +11,6 @@
 
 - 👨‍💻 All of my projects are available at [https://hetrixhosting.com](https://hetrixhosting.com)
 
-- 📝 I regularly write articles on [Self-hosting & virtualization](Self-hosting & virtualization)
-
 - 💬 Ask me about **Proxmox, Pterodactyl, WHMCS, Game Hosting, Linux, Server Automation**
 
 - 📫 How to reach me **cloner@hetrixhosting.com**
